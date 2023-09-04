@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://bashirahmedcse:Os88FpiHRoOTGtfB@nextauth.fzutytx.mongodb.net/
+TOKEN_SECRET=nextjsauthbashir
+DOMAIN=http://localhost:3000
